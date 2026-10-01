@@ -1,14 +1,203 @@
-<h1 align="center">Hi 👋, I'm Aniket Aayush</h1>
-<h3 align="center">A passionate Web Developer.</h3>
+# 👋 Hi, I'm Aniket Aayush
 
-- 🔭 I’m currently working on [To-Do List](https://github.com/OJTriedCoding/CodeCookies)
+### Aspiring Data Scientist | Python | SQL | Machine Learning | Data Analytics
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm an aspiring **Data Scientist** with a foundation in data analytics and a growing focus on **Machine Learning, Statistics, and Data Science**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+I have completed the fundamentals of **Python, SQL, Excel, Power BI, and data analysis**, and I'm currently building deeper expertise in machine learning and applying it to real-world datasets.
+
+My goal is to bridge the gap between **data analysis and predictive modeling** — from understanding what happened in the data to understanding *why it happened* and *what is likely to happen next*.
+
+---
+
+## 👋 About Me
+
+* 🎓 B.Tech graduate from **MNNIT Allahabad**
+* 🧠 **Analytical thinker** who enjoys breaking complex problems into smaller, manageable parts
+* 📚 **Quick learner** who enjoys exploring new concepts and continuously improving
+* 🧩 **Problem-solving mindset** with an interest in finding practical, data-driven solutions
+* 🎯 **Goal-oriented and consistent** when working toward long-term objectives
+* 👀 Strong **attention to detail** and focus on accuracy
+* 🤝 Value **teamwork, collaboration, and clear communication**
+* 💬 Able to explain ideas and findings in a **simple and understandable way**
 
 
-[![An image of @aniketaayush29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniketaayush29)](https://holopin.io/@aniketaayush29)
+---
+
+# 🛠️ Tech Stack
+
+### Programming & Data Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+### Databases
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Visualization & BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+
+---
+
+# 📊 Data Science Journey
+
+```text
+Data Analytics
+      │
+      ├── SQL
+      ├── Excel
+      ├── Power BI
+      └── Python
+           │
+           ▼
+    Data Analysis
+           │
+           ▼
+     Statistics
+           │
+           ▼
+   Machine Learning
+           │
+     ┌─────┴─────┐
+     ▼           ▼
+Supervised   Unsupervised
+ Learning      Learning
+     │           │
+     └─────┬─────┘
+           ▼
+   Feature Engineering
+           │
+           ▼
+    Model Evaluation
+           │
+           ▼
+     ML Projects
+           │
+           ▼
+   Deployment / MLOps
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🩺 Disease Prediction System
+
+**Python | Pandas | Scikit-learn | Machine Learning**
+
+A machine learning project focused on predicting the likelihood of diseases using patient-related features.
+
+### Models Used
+
+* Support Vector Classifier (SVC)
+* Gradient Boosting Classifier
+
+### Key Concepts
+
+* Data preprocessing
+* Exploratory Data Analysis
+* Feature selection
+* Model training
+* Classification
+* Model evaluation
+* Predictive modeling
+
+🔗 **[View Project →](YOUR_GITHUB_PROJECT_LINK)**
+
+---
+
+## 📊 Data Analysis Projects
+
+I'm building projects that demonstrate the complete data analysis workflow:
+
+```text
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+Feature Engineering
+   ↓
+Statistical Analysis
+   ↓
+Visualization
+   ↓
+Machine Learning
+   ↓
+Model Evaluation
+   ↓
+Business / Real-World Insights
+```
+
+---
+
+# 📚 My Approach to Data Science
+
+I believe a good Data Scientist needs more than just the ability to train a model.
+
+My approach is:
+
+**Understand → Clean → Explore → Analyze → Engineer → Model → Evaluate → Communicate**
+
+I focus on understanding the problem and the data before choosing an algorithm.
+
+---
+
+# 🎯 Current Goal
+
+I'm currently working toward becoming a **Data Scientist**, strengthening my foundations in:
+
+```text
+Python
+   +
+SQL
+   +
+Statistics
+   +
+Machine Learning
+   +
+Data Visualization
+   +
+Real-World Projects
+```
+
+My long-term goal is to build **end-to-end data science and machine learning solutions** that solve meaningful real-world problems.
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketaayush29\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketaayush29\&layout=compact)
+
+---
+
+# 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aniket-aayush-584a6a291/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)]((https://github.com/aniketaayush29))
+
+📧 **Email:** aniketaayush29@gmail.com
+
+---
+
